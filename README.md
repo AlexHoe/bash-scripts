@@ -8,4 +8,4 @@ Search for a string in the current directory and all subdirectories, expects one
 
 ## stripcomments
 
-Removes all comments and empty lines from a file and prints the normal lines
+Removes all comments and empty lines from a file and prints the normal lines, expects a file as argument
